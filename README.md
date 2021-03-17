@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Source Code](https://your-solution-url.com)
-- Live Site URL: [Live Website](https://your-live-site-url.com)
+- Solution URL: [Source Code](https://github.com/scjuly19/launch-countdown-timer-main.git)
+- Live Site URL: [Live Website](https://compassionate-cori-632b72.netlify.app/)
 
 ## My process
 
@@ -78,7 +78,7 @@ I want to explore CSS animations and transforms much more so that I could compel
 
 ## Author
 
-- Website - [Sakshi Chaudhary](https://www.your-site.com)
+- Website - [Sakshi Chaudhary](https://www.linkedin.com/in/scjuly19)
 - Frontend Mentor - [@scjuly19](https://www.frontendmentor.io/profile/scjuly19)
 - Instagram- [@sakshi.codes](https://www.instagram.com/sakshi.codes)
 
