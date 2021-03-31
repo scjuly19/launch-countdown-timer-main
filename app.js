@@ -19,6 +19,8 @@ function getTimeDifference(endtime) {
 }
 const deadline = new Date(Date.parse(new Date()) + 15 * 24 * 60 * 60 * 1000);
 function initializeTimer(endtime) {
+    const timer = setInterval(updateTime, 1000);
+
   function updateTime() {
     const t = getTimeDifference(endtime);
 
@@ -29,6 +31,5 @@ function initializeTimer(endtime) {
     if (t.total <= 0) clearInterval(timer);
   }
   updateTime();
-  const timer = setInterval(updateTime, 1000);
 }
 initializeTimer(deadline);
